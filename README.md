@@ -1,0 +1,3 @@
+# tinder-app
+
+Technical: MERN
